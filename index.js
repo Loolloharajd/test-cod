@@ -1,5 +1,3 @@
 function add(a, b) {
-  return a + b
+  return a + b + 1 // गलती डाली intentionally
 }
-
-console.log(add(2, 3))
